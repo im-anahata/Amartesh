@@ -2,9 +2,9 @@
 <h1 align="center">Hola everyone! 👋 </h1>
 <p align= "center">     
     My name is <b> Amartesh Singh </b> <br> 
-    I'm a  <b>Sophomore </b> from <b>Harcourt Butler Technical University.</b>
-   <br> Interested in <b>Web Development and Competitive Coding</b>💞️
-  <br> Currently Learning <b>Front-End Web Development and Java</b>🌱
+    I'm a  <b>Junior </b> from <b>Harcourt Butler Technical University.</b>
+   <br> Interested in <b>Web Development</b>💞️
+  <br> Currently Learning <b>Full Stack Web Development with Java</b>🌱
   <br> Looking to contribute in <b>Open Source</b>
   </p>
 
@@ -15,6 +15,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/87319921/131159622-703987cf-80fc-4342-a74b-0cb957a2d58b.png" width="50" height="50">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="50" height="50">
+<img src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png" width="50" height="50">
 </p>
   
 <p align= "center">
