@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/87319921/131159622-703987cf-80fc-4342-a74b-0cb957a2d58b.png" width="50" height="50">
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" width="50" height="50">
-<img src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png" width="50" height="50">
+<img src="https://img.icons8.com/color/1x/spring-logo.png" width="50" height="50">
 </p>
   
 <p align= "center">
